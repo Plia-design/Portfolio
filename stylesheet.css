@@ -16,7 +16,7 @@ h2{font-size: 40px;
 margin: 0;
 border-bottom: 20px solid #FF0054;}
 
-.fundo{background-color: blueviolet;
+.fundo{background-color: rgb(138, 129, 106);
 padding: 150px;
 margin: 200px;}
 
@@ -31,3 +31,7 @@ width: 50px;}
 .capa{width: 30vw;
 background-color: #FF0054;
 min-height: 10vw ;}
+
+.vermais{margin: 200px;}
+
+.verimg{ width: 260px; }
