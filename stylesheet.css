@@ -4,8 +4,15 @@ body{font-family: Arial, Helvetica, sans-serif;}
 .name{max-width: max-content;
 padding: 30px;
 text-align: right;
-justify-self: right;}
+justify-self: right;
+background-color: aquamarine;}
 
+ul{list-style-type: none;
+margin: 0;}
+
+li{display:inline;}
+
+.linkimg{width: 20px;}
 
 h1{margin: 200px;
     margin-top: 10px;
@@ -16,12 +23,11 @@ h2{font-size: 40px;
 margin: 0;
 border-bottom: 20px solid #FF0054;}
 
-.fundo{background-color: rgb(138, 129, 106);
-padding: 150px;
+.fundo{
 margin: 200px;}
 
-img{width: 50vw;
-align-self: center;}
+img{width: 60vw;
+margin: auto;}
 
 .video{width: 50vw;}
 
@@ -35,3 +41,17 @@ min-height: 10vw ;}
 .vermais{margin: 200px;}
 
 .verimg{ width: 260px; }
+
+
+
+
+
+
+
+antigo
+.fund background-color: blueviolet;
+    padding: 150px;
+    margin: 200px;}
+    
+img  width: 50vw;
+    align-self: center;}
