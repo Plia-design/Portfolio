@@ -26,20 +26,12 @@ border-bottom: 20px solid #FF0054;}
 h3{margin-bottom: 0;
 padding-bottom: 0;}
 
-.fundo{
-margin: 200px;}
+.fundo{display: block;
+    width: 60vw;
+margin: auto;}
 
-fundo img{width: 300px;
-    margin: auto;}
-
-.fundoa{
-    background-color: #BAA490;
-    padding: 100px;
-    margin: 200px;}
-
-    fundoa img{width: 50vw;
-    align-self: center;
-margin: auto;}  
+.fundo_img{width: 60vw;
+margin-bottom: 200px;}
 
 .video{width: 50vw;}
 
